@@ -7,7 +7,7 @@ Repositório criado para praticar os primeiros comandos do Git e entender como f
 * Criar um repositório.
 * Fazer commits.
 * Criar e trocar de branches.
-* Verificar alterações com `git status`.
+* Verificar alterações.
 * Conectar o projeto ao GitHub.
 * Enviar o projeto para um repositório remoto.
 
