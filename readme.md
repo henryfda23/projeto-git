@@ -1,14 +1,18 @@
- Estudos de Git e GitHub
+# Estudos de Git e GitHub
 
 Repositório criado para praticar os primeiros comandos do Git e entender como funciona o versionamento de código.
 
- O que eu pratiquei
+## O que eu pratiquei
 
-* Criar um repositório. `git init`
-* Fazer commits. `git commit`
-* Criar e trocar de branches. `git checkout -b`
-* Verificar alterações. `git status`
-* Conectar o projeto ao GitHub. `git remote add`
-* Enviar o projeto para um repositório remoto. `git push`
+* Inicialização de um repositório Git (`git init`);
+* Criação de commits (`git commit`);
+* Criação e troca de branches (`git checkout -b`);
+* Verificação de alterações (`git status`);
+* Conexão do repositório local com o GitHub (`git remote add`);
+* Envio de alterações para um repositório remoto (`git push`).
 
-Este projeto tem apenas fins de estudo e faz parte do meu processo de aprendizado em Git e GitHub.
+## Objetivo
+
+Praticar os conceitos básicos de Git e GitHub, ferramentas essenciais para o controle de versão e para o desenvolvimento de software em equipe.
+
+> Este projeto tem apenas fins de estudo e faz parte do meu processo de aprendizado em Git e GitHub.
