@@ -4,11 +4,11 @@ Repositório criado para praticar os primeiros comandos do Git e entender como f
 
  O que eu pratiquei
 
-* Criar um repositório.
-* Fazer commits.
-* Criar e trocar de branches.
-* Verificar alterações.
-* Conectar o projeto ao GitHub.
-* Enviar o projeto para um repositório remoto.
+* Criar um repositório. `git init`
+* Fazer commits. `git commit`
+* Criar e trocar de branches. `git checkout -b`
+* Verificar alterações. `git status`
+* Conectar o projeto ao GitHub. `git remote add`
+* Enviar o projeto para um repositório remoto. `git push`
 
 Este projeto tem apenas fins de estudo e faz parte do meu processo de aprendizado em Git e GitHub.
